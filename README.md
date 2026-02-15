@@ -2,48 +2,51 @@
 
 A modern, high-fidelity music streaming experience built with a "Cosmic" aesthetic. This project showcases a complete user journey—from onboarding to immersive artist interaction—across 10+ meticulously designed screens.
 
-📖 Project Overview
+## 📖 Project Overview
+
 Astro is designed for the next generation of music listeners. It combines a deep, "space-black" interface with vibrant purple accents to create a premium, immersive environment. The goal was to build a UI that feels high-end and cinematic while maintaining the functional simplicity required for a daily-use music app.
 
-✨ Key Features & Screen Highlights
-1. Seamless Onboarding Flow
-Splash & Get Started: A clean, branded entry point that introduces the Astro identity.
+## ✨ Key Features & Screen Highlights
 
-Mode Selection: A user-centric "Choose Mode" screen allowing for personalized Dark and Light mode preferences.
+1.Seamless Onboarding FlowSplash & Get Started: A clean, branded entry point that introduces the Astro identity.
 
-2. Immersive Music Experience
+2.Mode Selection: A user-centric "Choose Mode" screen allowing for personalized Dark and Light mode preferences.
+
+3.Immersive Music Experience
 Advanced Music Player: A high-fidelity "Now Playing" screen featuring large-scale album art and intuitive playback controls.
 
-Real-time Lyrics: A dedicated lyrics view with background-blur effects that keep the artist's visual presence felt while reading.
+4.Real-time Lyrics: A dedicated lyrics view with background-blur effects that keep the artist's visual presence felt while reading.
 
-3. Discovery & Artist Engagement
+5.Discovery & Artist Engagement
 Dynamic Home Dashboard: Features a "New Album" spotlight (e.g., Billie Eilish's Happier Than Ever) and quick-access categories for News, Videos, and Artists.
 
-Rich Artist Profiles: Deep-dive pages showcasing artist bios, discography, and key stats like monthly listeners.
+6.Rich Artist Profiles: Deep-dive pages showcasing artist bios, discography, and key stats like monthly listeners.
 
-Personalized Profiles: User dashboards that organize "Public Playlists" with clear track data and easy navigation.
+7.Personalized Profiles: User dashboards that organize "Public Playlists" with clear track data and easy navigation.
 
-🛠️ Tech Stack & Methodology
-Figma (Core UI/UX): Used for the 10-screen high-fidelity architecture. I focused on Information Architecture, ensuring that complex data (like 15 million tracks) remains easy to navigate.
+## 🛠️ Tech Stack & Methodology
 
-Canva (Visual Branding): I leveraged Canva for creating high-impact artist banners and marketing assets to ensure the "Astro" brand felt consistent and professional across the platform.
+1.Figma (Core UI/UX): Used for the 10-screen high-fidelity architecture. I focused on Information Architecture, ensuring that complex data (like 15 million tracks) remains easy to navigate.
 
-Visual Hierarchy: Implemented a strict "Dark Mode" palette using deep navies and blacks (#000000) contrasted with "Astro Purple" to highlight primary call-to-action buttons like "Get Started" and "Continue".
+2.Canva (Visual Branding): I leveraged Canva for creating high-impact artist banners and marketing assets to ensure the "Astro" brand felt consistent and professional across the platform.
 
-⏱️ Motion Specifications
+3.Visual Hierarchy: Implemented a strict "Dark Mode" palette using deep navies and blacks (#000000) contrasted with "Astro Purple" to highlight primary call-to-action buttons like "Get Started" and "Continue".
 
-Navigation Latency: 200ms (Optimized for rapid tab switching).
+## ⏱️ Motion Specifications
 
-Contextual Shifts: 400ms (Applied to artist discovery to ensure visual continuity).
+1.Navigation Latency: 200ms (Optimized for rapid tab switching).
 
-Easing Curves: Utilized Ease-out across all transitions to mimic physical inertia.
+2.Contextual Shifts: 400ms (Applied to artist discovery to ensure visual continuity).
 
-🎨 Design Process
-Identity Design: Crafting the "ASTRO" logo and choosing a typeface that feels futuristic yet readable.
+3.Easing Curves: Utilized Ease-out across all transitions to mimic physical inertia.
 
-Layout Construction: Building the "News" and "Playlist" sections with a focus on scannability.
+## 🎨 Design Process
 
-Component Creation: Designing reusable icons and buttons for a unified look across the profile and music player pages.
+ 1.Identity Design: Crafting the "ASTRO" logo and choosing a typeface that feels futuristic yet  readable.
+
+ 2.Layout Construction: Building the "News" and "Playlist" sections with a focus on scannability.
+ 
+ 3.Component Creation: Designing reusable icons and buttons for a unified look across the profile and music player pages.
 
 ## 🔗 Interactive Design Links
 Explore the high-fidelity designs for the Astro Music App:
@@ -63,6 +66,6 @@ Explore the full 10 screen architecture, including the Home Page, Artist Profile
 👋 Connect with Me
 If you like this project, feel free to ⭐ the repository!
 
-LinkedIn: [Your Link]
+LinkedIn: [www.linkedin.com/in/abhilasha-srivastava-60b977270]
 
-Email: [Your Email]
+Email: [abhi2004lasha@gmail.com]
