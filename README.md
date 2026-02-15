@@ -1,4 +1,4 @@
-🚀 Astro Music App — High-Fidelity UI/UX v1.0
+## 🚀 Astro Music App — High-Fidelity UI/UX v1.0
 
 A modern, high-fidelity music streaming experience built with a "Cosmic" aesthetic. This project showcases a complete user journey—from onboarding to immersive artist interaction—across 10+ meticulously designed screens.
 
