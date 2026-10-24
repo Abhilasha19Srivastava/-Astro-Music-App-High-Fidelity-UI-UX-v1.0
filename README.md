@@ -57,7 +57,7 @@ Explore the high-fidelity designs for the Astro Music App:
 
 ### 🖼️ Brand Concept (Cover)
 View the high-level branding and project thumbnail:
-👉 **[View Project Cover](https://www.figma.com/design/63h78v7ENjsxJtcSGvL7ob/Astro-Music-App-%E2%80%94-High-Fidelity-UI-UX-v1.0?node-id=3-2)**
+👉 **[View Project Cover](https://www.figma.com/design/63h78v7ENjsxJtcSGvL7ob/Astro-Music-App-%E2%80%94-High-Fidelity-UI-UX-v1.0?node-id=4-2&t=m4j0Mx3SjQqCNqlc-1)**
   
 ### 📐 UI Design Workspace
 Explore the full 10 screen architecture, including the Home Page, Artist Profiles, and Player Logic:
